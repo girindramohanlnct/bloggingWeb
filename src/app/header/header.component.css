@@ -1,0 +1,31 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.spacer {
+  flex: 1 1 auto;
+}
+ ul {
+   display: flex;
+ }
+ .second {
+   height: 2.5rem;
+   margin-bottom: 1rem;
+ }
+
+ .first {
+   height: 3.5rem;
+ }
+ .first a {
+   text-decoration-color: blueviolet;
+ }
+#text2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color: blueviolet;
+}
